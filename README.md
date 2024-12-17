@@ -1,4 +1,4 @@
-##Credit Card Default Prediction
+# Credit Card Default Prediction
 Goals:
 - Implementing different Default Credit Card prediction models using Default Credit Card Clients dataset
 - Comparing the different models
